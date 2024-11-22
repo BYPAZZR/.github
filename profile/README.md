@@ -6,12 +6,19 @@
 
 <h1 align="center">BYPAZZR</h1>
 
-**Documentation:** [https://docs.google.com/document/d/1dC_MHIaeqc_b-0eZ_crIxLAHlqxoWdVp2U283E4Sj8Y/edit?usp=sharing)
+# COLLECTION 
+[https://docs.google.com/document/d/1dC_MHIaeqc_b-0eZ_crIxLAHlqxoWdVp2U283E4Sj8Y/edit?usp=sharing)
 
-### About
+# ABOUT
+
+# WHY 
+
+# TABLE OF CONTENTS
+
+# CREDITS 
 
 
-### Partners
+# Partners
 
 dont got none
 
