@@ -16,8 +16,8 @@ why you should use us? well instaead of you spentding all day at school searchin
 
 
 **BYPASSES**
-1. Extension freezer (still works
-2. EXTENSION KILLER (GOOD)
+1. Extension freezer (still works in old chrome os versions but temporarily)
+2. EXTENSION KILLER (GOOD but temporarily works)
 3. VELOCITY BYPASS (good) 
 4. Blobby VM (VIRTUAL MACHINE) 
 (bypasses wifi and ip blockers)
@@ -26,7 +26,7 @@ why you should use us? well instaead of you spentding all day at school searchin
 7. RIG TOOLS  (BEST!!) 
 8. Dextensify (improved)
 9. DOGE UNBLOCKER
-10. GEOBRA BYPASS (MADE  BY ME!!)
+10. GEOBRA BYPASS(made by astro) or CHROME://SIGNIN
 11. NANO PROXY
 12. TERBIUM BROWSE PROXY
 
