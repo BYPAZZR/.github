@@ -7,10 +7,10 @@
 <h1 align="center">⭐BYPAZZR⭐</h1>
 
 # 📕 - ABOUT
-Hello and weclome to bypazzr! you may be wondering some stuff about our organization and goals so here is a little about us. Bypazzr was first started and founded by @Aztro-leakz. It is a collection of bypasses, unblocked websites, games and more all for school. now this isnt some shitty game website or proxy that will get blocked, this is a google doc collection of methods to unblock that are constantly updated and tested. our goal is to provide a fun, safe, and unblocked  experiance so thats why we made this. to give kids internet freedome. 
+Hello and weclome to BYPASSR! you may be wondering some stuff about our organization and goals so here is a little about us. Bypazzr was first started and founded by @Aztro-leakz. It is a collection of bypasses, unblocked websites, games and more all for school. now this isnt some shitty game website or proxy that will get blocked, this is a google doc collection of methods to unblock that are constantly updated and tested. our goal is to provide a fun, safe, and unblocked  experiance so thats why we made this. to give kids internet freedom. 
 
 # 🤔 - WHY 
-why you should use us? well instaead of you spentding all day aat school searching on gthub and online for ways to unblock your chromebook or bypass an extension we do that for you! and then we put it all in a google doc with step by step tutorials for each and every method to enssure your enjoyment. bypazzr is constantly updated andd is constantly tested so we can guaruntee internet browsing without limitations.
+why you should use us? well instaead of you spentding all day at school searching on gthub and online for ways to unblock your chromebook or bypass an extension we do that for you! and then we put it all in a google doc with step by step tutorials for each and every method to ensure your enjoyment. bypazzr is constantly updated andd is constantly tested so we can gaurantee internet browsing without limitations.
 
 # 📖 - TABLE OF CONTENTS
 
@@ -43,6 +43,7 @@ GAMES
 
 **TUTORIALS**
 1. FORTNITE
+2. ROBLOX
 
 **CREDITS**
 1. All credits were given : )
@@ -57,7 +58,7 @@ GAMES
 
 # 🎫 - CREDITS 
 
-**NOTE:** so i want to clarify that i do not take credit for any exploit that i didnt  make. All of the exploits in here are made by other people which i will credit here. Also huge thanks to these ppl for making these exploits in the first place.
+**NOTE:** so we want to clarify that we do not take credit for any exploit that we didnt  make. All of the exploits in here are made by other people which we will credit here. Also huge thanks to these ppl for making these exploits in the first place.
 
 **EXTENSION HANGER**
 1. Link: https://github.com/ading2210/dextensify 
@@ -96,7 +97,7 @@ GAMES
 1. Made by: doge network
    
 **Geobra bypass**
-1.  Me :3
+1.  Astro :3
 **NANO PROXY**
 1. Link:  https://github.com/titaniumnetwork-dev/nano 
 2. Made by: titaniumnetwork-dev
