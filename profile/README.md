@@ -15,8 +15,8 @@ why you should use us? well instaead of you spentding all day at school searchin
 # 📖 - TABLE OF CONTENTS
 
 
-**BYPASSES FOR SECURLY**
-1. Extension freezer (still works in old chrome os versions but temporarily)
+**BYPASSES**
+1. Extension freezer (works on v 128)
    - works with securly
 3. EXTENSION KILLER (GOOD but temporarily works)
    - works with lightspeed and securly
