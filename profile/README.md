@@ -57,6 +57,44 @@ GAMES
 
 # CREDITS 
 
+**NOTE:** so i want to clarify that i do not take credit for any exploit that i didnt  make. All of the exploits in here are made by other people which i will credit here. Also huge thanks to these ppl for making these exploits in the first place.
+
+**EXTENSION HANGER**
+1. Link: https://github.com/ading2210/dextensify 
+2.MAde by: ading2210
+**EXTENSION KILLER**
+1. Link: https://github.com/Blobby-Boi/ExtHang3r 
+2. Made by: blobby-boi
+**VELOCITY BYPASS**
+1. Link: https://github.com/CrossScarDev/UBTW2 
+2. Made by: crossScarDev
+**BLOBBY VM**
+1. Link: https://github.com/Blobby-Boi/BlobeVM
+2. Made  by: Blobby-boi
+**INTERSTELLAR**
+1. Link: https://github.com/UseInterstellar/Interstellar/tree/13e7e8c99ce0e4d26e0c15159371bed7c3b8d837 
+2. Made by: useinterstellar
+**HOLLY  unblocker**
+1. Link: https://github.com/QuiteAFancyEmerald/Holy-Unblocker 
+2. Made by: Qutieafancyemrald
+**RIG tOOLs**
+1. Link: https://github.com/MunyDev/rigtools-v2 
+2. Made by: Muny Dev
+**DEXTEXIFY**
+1. link:https://github.com/STPv22/Dextensify 
+2. Made by: STPv22
+**DOGE UNBLOCKER**
+2. Link: https://github.com/DogeNetwork/v4 
+1. Made by: doge network
+**Geobra bypass**
+1.  Me :3
+**NANO PROXY**
+1. Link:  https://github.com/titaniumnetwork-dev/nano 
+2. Made by: titaniumnetwork-dev 
+**TERBIUM BROWSE PROXY** 
+1. Link: https://github.com/TerbiumOS/webOS  
+2. Made by: titaniumnetwork-dev 
+
 
 # Partners
 
