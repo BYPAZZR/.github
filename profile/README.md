@@ -1,6 +1,6 @@
 <p align="center">
 <kbd>
-<img width="200px" src="https://avatars.githubusercontent.com/u/189370218">
+<img width="400px" src="https://avatars.githubusercontent.com/u/189370218">
 </kbd>
 </p>
 
