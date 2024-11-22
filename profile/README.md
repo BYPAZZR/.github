@@ -122,7 +122,7 @@ nothing
 
 
 # 🚀 - Services
-(GITHUB)[https://github.com/BYPAZZR/BYPAZZR]
+(GITHUB) [https://github.com/BYPAZZR/BYPAZZR]
 
-(GOOGLE DOC)[https://docs.google.com/document/d/1dC_MHIaeqc_b-0eZ_crIxLAHlqxoWdVp2U283E4Sj8Y/edit?usp=sharing)
+(GOOGLE DOC) [https://docs.google.com/document/d/1dC_MHIaeqc_b-0eZ_crIxLAHlqxoWdVp2U283E4Sj8Y/edit?usp=sharing)
 
