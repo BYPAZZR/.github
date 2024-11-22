@@ -55,7 +55,7 @@ GAMES
 
 
 
-# CREDITS 
+# 🎫 - CREDITS 
 
 **NOTE:** so i want to clarify that i do not take credit for any exploit that i didnt  make. All of the exploits in here are made by other people which i will credit here. Also huge thanks to these ppl for making these exploits in the first place.
 
@@ -105,7 +105,7 @@ GAMES
 nothing
 
 
-# Services
+# 🚀 - Services
 (GITHUB)[https://github.com/BYPAZZR/BYPAZZR]
 
 (GOOGLE DOC)[https://docs.google.com/document/d/1dC_MHIaeqc_b-0eZ_crIxLAHlqxoWdVp2U283E4Sj8Y/edit?usp=sharing)
