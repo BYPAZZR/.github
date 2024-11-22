@@ -17,18 +17,22 @@ why you should use us? well instaead of you spentding all day at school searchin
 
 **BYPASSES**
 1. Extension freezer (still works in old chrome os versions but temporarily)
-2. EXTENSION KILLER (GOOD but temporarily works)
-3. VELOCITY BYPASS (good) 
-4. Blobby VM (VIRTUAL MACHINE) 
+   - works with securly
+3. EXTENSION KILLER (GOOD but temporarily works)
+   - works with lightspeed and securly
+5. VELOCITY BYPASS (good)
+   - works with securly but not tested on lightspeed 
+7. Blobby VM (VIRTUAL MACHINE)
+   works with securly
 (bypasses wifi and ip blockers)
-5. INTERSTELLAR (good) 
-6. HOLY UNBLOCKER (good) 
-7. RIG TOOLS  (BEST!!) 
-8. Dextensify (improved)
-9. DOGE UNBLOCKER
-10. GEOBRA BYPASS(made by astro) or CHROME://SIGNIN
-11. NANO PROXY
-12. TERBIUM BROWSE PROXY
+9. INTERSTELLAR (good) 
+10. HOLY UNBLOCKER (good) 
+11. RIG TOOLS  (BEST!!) 
+12. Dextensify (improved)
+13. DOGE UNBLOCKER
+14. GEOBRA BYPASS(made by astro) or CHROME://SIGNIN
+15. NANO PROXY
+16. TERBIUM BROWSE PROXY
 
 **OTHER TOOLS**
 1. School wifi pass grabber
