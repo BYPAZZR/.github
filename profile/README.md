@@ -13,7 +13,7 @@
 
 ### Partners
 
-
+dont got none
 
 ### Projects
 
